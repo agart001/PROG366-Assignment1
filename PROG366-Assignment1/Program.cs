@@ -6,7 +6,6 @@ namespace PROG366_Assignment1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
             Print("O(1) Example:", true);
             Print("IsTrue() Checks if a boolean value is true. n = 1, it is called once", true);
